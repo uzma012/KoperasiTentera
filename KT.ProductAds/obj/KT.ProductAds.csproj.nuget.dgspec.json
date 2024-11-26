@@ -1,0 +1,561 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.ProductAds\\KT.ProductAds.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Common\\KT.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Common\\KT.Common.csproj",
+        "projectName": "KT.Common",
+        "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Common\\KT.Common.csproj",
+        "packagesPath": "C:\\Users\\FINTELLI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FINTELLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Interface\\KT.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Interface\\KT.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Otp.NET": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Exceptions\\KT.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Exceptions\\KT.Exceptions.csproj",
+        "projectName": "KT.Exceptions",
+        "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Exceptions\\KT.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\FINTELLI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FINTELLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Interface\\KT.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Interface\\KT.Interfaces.csproj",
+        "projectName": "KT.Interfaces",
+        "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Interface\\KT.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\FINTELLI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FINTELLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Model.Db\\KT.Models.DB.csproj": {
+                "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Model.Db\\KT.Models.DB.csproj"
+              },
+              "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Models.Common.DTOs\\KT.Models.Common.csproj": {
+                "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Models.Common.DTOs\\KT.Models.Common.csproj"
+              },
+              "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Models.Registeration\\KT.Models.Registeration.csproj": {
+                "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Models.Registeration\\KT.Models.Registeration.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Model.Db\\KT.Models.DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Model.Db\\KT.Models.DB.csproj",
+        "projectName": "KT.Models.DB",
+        "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Model.Db\\KT.Models.DB.csproj",
+        "packagesPath": "C:\\Users\\FINTELLI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Model.Db\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FINTELLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Models.Common.DTOs\\KT.Models.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Models.Common.DTOs\\KT.Models.Common.csproj",
+        "projectName": "KT.Models.Common",
+        "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Models.Common.DTOs\\KT.Models.Common.csproj",
+        "packagesPath": "C:\\Users\\FINTELLI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Models.Common.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FINTELLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Model.Db\\KT.Models.DB.csproj": {
+                "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Model.Db\\KT.Models.DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Models.Registeration\\KT.Models.Registeration.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Models.Registeration\\KT.Models.Registeration.csproj",
+        "projectName": "KT.Models.Registeration",
+        "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Models.Registeration\\KT.Models.Registeration.csproj",
+        "packagesPath": "C:\\Users\\FINTELLI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Models.Registeration\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FINTELLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Model.Db\\KT.Models.DB.csproj": {
+                "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Model.Db\\KT.Models.DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.ProductAds\\KT.ProductAds.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.ProductAds\\KT.ProductAds.csproj",
+        "projectName": "KT.ProductAds",
+        "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.ProductAds\\KT.ProductAds.csproj",
+        "packagesPath": "C:\\Users\\FINTELLI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.ProductAds\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FINTELLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Common\\KT.Common.csproj": {
+                "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Common\\KT.Common.csproj"
+              },
+              "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Repository\\KT.Repositories.csproj": {
+                "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Repository\\KT.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Repository\\KT.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Repository\\KT.Repositories.csproj",
+        "projectName": "KT.Repositories",
+        "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Repository\\KT.Repositories.csproj",
+        "packagesPath": "C:\\Users\\FINTELLI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\FINTELLI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Exceptions\\KT.Exceptions.csproj": {
+                "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Exceptions\\KT.Exceptions.csproj"
+              },
+              "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Interface\\KT.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\FINTELLI\\Desktop\\Data files\\KoperasiTentera\\KT.Interface\\KT.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

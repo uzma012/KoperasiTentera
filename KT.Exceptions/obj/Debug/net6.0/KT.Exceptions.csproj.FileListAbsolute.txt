@@ -1,0 +1,12 @@
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Exceptions\bin\Debug\net6.0\KT.Exceptions.deps.json
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Exceptions\bin\Debug\net6.0\KT.Exceptions.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Exceptions\bin\Debug\net6.0\KT.Exceptions.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Exceptions\obj\Debug\net6.0\KT.Exceptions.csproj.AssemblyReference.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Exceptions\obj\Debug\net6.0\KT.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Exceptions\obj\Debug\net6.0\KT.Exceptions.AssemblyInfoInputs.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Exceptions\obj\Debug\net6.0\KT.Exceptions.AssemblyInfo.cs
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Exceptions\obj\Debug\net6.0\KT.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Exceptions\obj\Debug\net6.0\KT.Exceptions.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Exceptions\obj\Debug\net6.0\refint\KT.Exceptions.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Exceptions\obj\Debug\net6.0\KT.Exceptions.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Exceptions\obj\Debug\net6.0\ref\KT.Exceptions.dll

@@ -1,0 +1,12 @@
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Model.Db\bin\Debug\net6.0\KT.Models.DB.deps.json
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Model.Db\bin\Debug\net6.0\KT.Models.DB.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Model.Db\bin\Debug\net6.0\KT.Models.DB.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Model.Db\obj\Debug\net6.0\KT.Models.DB.csproj.AssemblyReference.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Model.Db\obj\Debug\net6.0\KT.Models.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Model.Db\obj\Debug\net6.0\KT.Models.DB.AssemblyInfoInputs.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Model.Db\obj\Debug\net6.0\KT.Models.DB.AssemblyInfo.cs
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Model.Db\obj\Debug\net6.0\KT.Models.DB.csproj.CoreCompileInputs.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Model.Db\obj\Debug\net6.0\KT.Models.DB.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Model.Db\obj\Debug\net6.0\refint\KT.Models.DB.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Model.Db\obj\Debug\net6.0\KT.Models.DB.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Model.Db\obj\Debug\net6.0\ref\KT.Models.DB.dll

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.19" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="Twilio" Version="6.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KT.Common\KT.Common.csproj" />
+    <ProjectReference Include="..\KT.Exceptions\KT.Exceptions.csproj" />
+    <ProjectReference Include="..\KT.Interface\KT.Interfaces.csproj" />
+    <ProjectReference Include="..\KT.Model.Db\KT.Models.DB.csproj" />
+    <ProjectReference Include="..\KT.Models.Authorisation\KT.Models.Authorisation.csproj" />
+    <ProjectReference Include="..\KT.Repository\KT.Repositories.csproj" />
+    <ProjectReference Include="..\KT.Validators\KT.Validators.csproj" />
+  </ItemGroup>
+
+</Project>

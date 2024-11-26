@@ -1,0 +1,17 @@
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\bin\Debug\net6.0\KT.Validators.deps.json
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\bin\Debug\net6.0\KT.Validators.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\bin\Debug\net6.0\KT.Validators.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\bin\Debug\net6.0\KT.Models.Common.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\bin\Debug\net6.0\KT.Models.DB.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\bin\Debug\net6.0\KT.Models.Common.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\bin\Debug\net6.0\KT.Models.DB.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\obj\Debug\net6.0\KT.Validators.csproj.AssemblyReference.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\obj\Debug\net6.0\KT.Validators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\obj\Debug\net6.0\KT.Validators.AssemblyInfoInputs.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\obj\Debug\net6.0\KT.Validators.AssemblyInfo.cs
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\obj\Debug\net6.0\KT.Validators.csproj.CoreCompileInputs.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\obj\Debug\net6.0\KT.Validators.csproj.CopyComplete
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\obj\Debug\net6.0\KT.Validators.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\obj\Debug\net6.0\refint\KT.Validators.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\obj\Debug\net6.0\KT.Validators.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Validators\obj\Debug\net6.0\ref\KT.Validators.dll

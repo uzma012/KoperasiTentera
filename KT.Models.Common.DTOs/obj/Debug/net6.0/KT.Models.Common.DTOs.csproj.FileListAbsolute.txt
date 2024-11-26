@@ -1,0 +1,15 @@
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\bin\Debug\net6.0\KT.Models.Common.DTOs.deps.json
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\bin\Debug\net6.0\KT.Models.Common.DTOs.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\bin\Debug\net6.0\KT.Models.Common.DTOs.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\bin\Debug\net6.0\KT.Models.DB.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\bin\Debug\net6.0\KT.Models.DB.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.DTOs.csproj.AssemblyReference.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.DTOs.AssemblyInfoInputs.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.DTOs.AssemblyInfo.cs
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.DTOs.csproj.CopyComplete
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.DTOs.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\refint\KT.Models.Common.DTOs.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.DTOs.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\ref\KT.Models.Common.DTOs.dll

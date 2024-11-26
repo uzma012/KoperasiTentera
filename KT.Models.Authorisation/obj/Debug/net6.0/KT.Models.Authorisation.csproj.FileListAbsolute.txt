@@ -1,0 +1,12 @@
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Authorisation\bin\Debug\net6.0\KT.Models.Authorisation.deps.json
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Authorisation\bin\Debug\net6.0\KT.Models.Authorisation.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Authorisation\bin\Debug\net6.0\KT.Models.Authorisation.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Authorisation\obj\Debug\net6.0\KT.Models.Authorisation.csproj.AssemblyReference.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Authorisation\obj\Debug\net6.0\KT.Models.Authorisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Authorisation\obj\Debug\net6.0\KT.Models.Authorisation.AssemblyInfoInputs.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Authorisation\obj\Debug\net6.0\KT.Models.Authorisation.AssemblyInfo.cs
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Authorisation\obj\Debug\net6.0\KT.Models.Authorisation.csproj.CoreCompileInputs.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Authorisation\obj\Debug\net6.0\KT.Models.Authorisation.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Authorisation\obj\Debug\net6.0\refint\KT.Models.Authorisation.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Authorisation\obj\Debug\net6.0\KT.Models.Authorisation.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Authorisation\obj\Debug\net6.0\ref\KT.Models.Authorisation.dll

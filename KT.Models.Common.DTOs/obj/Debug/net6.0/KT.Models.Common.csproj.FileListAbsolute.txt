@@ -1,0 +1,15 @@
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\bin\Debug\net6.0\KT.Models.Common.deps.json
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\bin\Debug\net6.0\KT.Models.Common.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\bin\Debug\net6.0\KT.Models.Common.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\bin\Debug\net6.0\KT.Models.DB.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\bin\Debug\net6.0\KT.Models.DB.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.csproj.AssemblyReference.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.AssemblyInfoInputs.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.AssemblyInfo.cs
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.csproj.CoreCompileInputs.cache
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.csproj.CopyComplete
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\refint\KT.Models.Common.dll
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\KT.Models.Common.pdb
+C:\Users\FINTELLI\Desktop\Data files\KoperasiTentera\KT.Models.Common.DTOs\obj\Debug\net6.0\ref\KT.Models.Common.dll
